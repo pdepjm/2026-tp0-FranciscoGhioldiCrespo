@@ -20,6 +20,6 @@ Vengo de **Villa La Angostura**, un pueblo al norte de la Patagonia. Soy hincha 
 
 ![Foto de la banda](https://github.com/user-attachments/assets/10400ee7-58d0-4692-b94a-8951ee34c269)
 
----
+chauuu
 
 *Repositorio para el TP0 de Paradigmas - 2026*
