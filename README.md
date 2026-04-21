@@ -1,4 +1,4 @@
-# Presentación Personal - Paradigmas de Programación
+# Presentación Personal
 
 ## Datos Personales
 * **Nombre Completo:** Francisco Ghioldi Crespo
